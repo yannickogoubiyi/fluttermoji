@@ -20,17 +20,17 @@ const List<String> defaultAttributeIcons = [
 /// Default list of titles that are rendered at the top of the widget, indicating
 /// which attribute the user is customizing.
 const List<String> defaultAttributeTitles = [
-  "Hairstyle",
-  "Hair Colour",
-  "Facial Hair",
-  "Facial Hair Colour",
-  "Outfit",
-  "Outfit Colour",
-  "Eyes",
-  "Eyebrows",
-  "Mouth",
-  "Skin",
-  "Accessories"
+  "Coiffure",
+  "Couleur coiffure",
+  "Pilosité faciale",
+  "Couleur Pilosité faciale",
+  "Tenue",
+  "Couleur Tenue",
+  "Yeux",
+  "Sourcils",
+  "Bouche",
+  "Peau",
+  "Accessoires"
 ];
 
 /// List of keys used internally by this library to dereference
